@@ -1,6 +1,16 @@
-<h1 align="center">Hi 👋, I'm Venugopal K P</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+</head>
 
-<img align = "right" alt = "coding" width ="400" src= "https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
+
+<h1 align="center">Hi 👋, I'm Venugopal K P</h1>
+<centre>
+<img alt = "coding" width ="1000" height = "500" src= "https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
+</centre>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v3nugopalkp&label=Profile%20views&color=0e75b6&style=flat" alt="v3nugopalkp" /> </p>
 
 - 📫 How to reach me **venukpgopal3@gmail.com**
