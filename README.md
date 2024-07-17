@@ -8,11 +8,15 @@
 
 
 <h1 align="center">Hi 👋, I'm Venugopal K P</h1>
+
 <centre>
 <img alt = "coding" width ="1000" height = "500" src= "https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 </centre>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v3nugopalkp&label=Profile%20views&color=0e75b6&style=flat" alt="v3nugopalkp" /> </p>
 
+- 🔭 Final year Computer Science Engineering student
+- 🌱 Interested in software development, cybersecurity, and machine learning
+- 🎓 Seeking opportunities to collaborate on open-source projects and gain practical experience
 - 📫 How to reach me **venukpgopal3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
