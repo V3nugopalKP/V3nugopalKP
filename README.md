@@ -7,13 +7,16 @@
 </head>
 
 
-<h1 align="center">Hi 👋, I'm Venugopal K P</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F79400&width=435&lines=Software+Engineer+in+Making;ML+Enthusiast;Always+Learning+Something+New" />
-</p>
+<div style="text-align:center;">
+  <h1>Hi 👋, I'm Venugopal K P</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F79400&width=435&lines=Software+Engineer+in+Making;ML+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+</div>
+
+
 <centre>
-<img alt = "coding" width ="1000" height = "500" src= "https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
+<img alt="coding" width="1000" height="500" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 </centre>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v3nugopalkp&label=Profile%20views&color=0e75b6&style=flat" alt="v3nugopalkp" /> </p>
 
 - 🔭 Final year Computer Science Engineering student
