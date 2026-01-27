@@ -19,7 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v3nugopalkp&label=Profile%20views&color=0e75b6&style=flat" alt="v3nugopalkp" /> </p>
 
-- 🔭 Final year Computer Science Engineering student
+- 🔭 MTech Computer Science Engineering student
 - 🌱 Interested in software development, cybersecurity, and machine learning
 - 🎓 Seeking opportunities to collaborate on open-source projects and gain practical experience
 - 📫 How to reach me **venukpgopal3@gmail.com**
