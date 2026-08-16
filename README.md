@@ -7,9 +7,10 @@
 </head>
 
 
-<div style="text-align:center;">
+<div align="center">
   <h1>Hi 👋, I'm Venugopal K P</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F79400&width=435&lines=Software+Engineer+in+Making;ML+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF9C&background=0D1117&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Making;AI+%26+ML+Enthusiast;Deep+Learning+Explorer;Always+Learning+Something+New" alt="Typing SVG" />
 </div>
 
 
