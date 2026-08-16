@@ -52,17 +52,30 @@ I build software and research at the intersection of **AI, Machine Learning, and
 
 ### AI & Machine Learning
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-1E88E5?style=for-the-badge" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-43A047?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Model_Fine--Tuning-6D4C41?style=for-the-badge" alt="Model Fine-Tuning"/>
+  <img src="https://img.shields.io/badge/NLP-8E24AA?style=for-the-badge" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-00897B?style=for-the-badge" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/Transformers-FFB300?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
 </p>
 
-**Focus areas:** Deep Learning · Machine Learning · Model Fine-Tuning · NLP · Computer Vision · Transformers
-
 ### Generative AI & LLMs
-**Generative AI · Large Language Models · RAG · Agentic AI · Prompt Engineering · LLM Fine-Tuning**
+<p align="left">
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Large_Language_Models-4527A0?style=for-the-badge" alt="Large Language Models"/>
+  <img src="https://img.shields.io/badge/RAG-00ACC1?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-D81B60?style=for-the-badge" alt="Agentic AI"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-3949AB?style=for-the-badge" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/LLM_Fine--Tuning-5D4037?style=for-the-badge" alt="LLM Fine-Tuning"/>
+</p>
 
-**Frameworks:** LangChain · LlamaIndex · Vector Databases
+**Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge" alt="LlamaIndex"/>
+  <img src="https://img.shields.io/badge/Vector_Databases-FF4B4B?style=for-the-badge" alt="Vector Databases"/>
+</p>
 
 ### Web & Backend
 <p align="left">
@@ -88,14 +101,6 @@ I build software and research at the intersection of **AI, Machine Learning, and
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
  
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=V3nugopalKP&show_icons=true&theme=dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V3nugopalKP&layout=compact&theme=dark&hide_border=true" height="170"/>
-</div>
-
 ---
 
 ## 🤝 Connect With Me
