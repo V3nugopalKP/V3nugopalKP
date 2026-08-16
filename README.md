@@ -92,8 +92,8 @@ I build software and research at the intersection of **AI, Machine Learning, and
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=V3nug0palKP&show_icons=true&theme=dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V3nug0palKP&layout=compact&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=V3nugopalKP&show_icons=true&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V3nugopalKP&layout=compact&theme=dark&hide_border=true" height="170"/>
 </div>
 
 ---
